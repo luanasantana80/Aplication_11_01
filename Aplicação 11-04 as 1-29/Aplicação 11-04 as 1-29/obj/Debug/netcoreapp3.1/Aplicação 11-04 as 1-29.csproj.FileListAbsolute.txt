@@ -1,0 +1,15 @@
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\bin\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.exe
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\bin\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.deps.json
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\bin\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.runtimeconfig.json
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\bin\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.runtimeconfig.dev.json
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\bin\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.dll
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\bin\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.pdb
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\obj\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.csprojAssemblyReference.cache
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\obj\Debug\netcoreapp3.1\Aplicação_11_04_as_1_29.Form1.resources
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\obj\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.csproj.GenerateResource.cache
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\obj\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.AssemblyInfoInputs.cache
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\obj\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.AssemblyInfo.cs
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\obj\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.csproj.CoreCompileInputs.cache
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\obj\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.dll
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\obj\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.pdb
+C:\Users\Luana Caroline\source\repos\Aplicação 11-04 as 1-29\Aplicação 11-04 as 1-29\obj\Debug\netcoreapp3.1\Aplicação 11-04 as 1-29.genruntimeconfig.cache
